@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Secret shhhhhh
-open-api-key
+openai-api-key
